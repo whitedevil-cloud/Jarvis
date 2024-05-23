@@ -1,0 +1,6 @@
+speech_recognition
+datetime
+subprocess
+pywhatkit
+pyttsx3
+webbrowser
